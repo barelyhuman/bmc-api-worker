@@ -8,6 +8,10 @@ I like the [buymeacoffee.com](https://www.buymeacoffee.com/barelyhuman) post edi
 # Disclaimer 
 This worker doesn't support getting private posts from the website.
 
+# Try it out
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 # Key Features
 - Built with go, single binary with a web scraper
 - Get's all posts on your public bmc page 

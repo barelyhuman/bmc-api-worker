@@ -1,0 +1,6 @@
+{
+    "name": "bmc-api-worker",
+    "description": "API worker for buymeacoffee.com",
+    "repository": "https://github.com/barelyhuman/bmc-api-worker",
+    "keywords": ["go", "posts", "buymeacoffee","api"]
+}
