@@ -2,6 +2,9 @@
 
 API worker for buymeacoffee.com
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/barelyhuman/bmc-api-worker)](https://goreportcard.com/report/github.com/barelyhuman/bmc-api-worker)
+
+
 # Motivation
 I like the [buymeacoffee.com](https://www.buymeacoffee.com/barelyhuman) post editor and instead of setting up a new editor I thought I'll just use them as a CMS, their api doesn't support post and post data yet , it's been in the feature requests for a while now so I thought I'd try scraping the public posts.
 
